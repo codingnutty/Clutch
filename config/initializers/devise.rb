@@ -263,6 +263,9 @@ Devise.setup do |config|
   # config.omniauth_path_prefix = '/my_engine/users/auth'
 
     #****************** config.router_name = :main_app
+    config.secret_key = '126f0e329d536b8709f84021b97793f51e8bde172b1f1a1a514812ec67a053fb5574a4fee610031464f541f2b250582194995bd917f92488a1cbea063c4f0a9e'
+
+
 
 
 end
